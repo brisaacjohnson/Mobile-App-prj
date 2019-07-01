@@ -1,0 +1,1 @@
+1 Jul 2019 12:40:30 GMT: Log 'EclipseCompiler.txt' opened: 1 Jul 2019 12:40:30 GMT with name C:\Users\brisaacj\Documents\Past Semester\SPRING 2019\CSCI 3660\Final\app\src\main\java\com\example\afinal\EclipseCompiler.txt
